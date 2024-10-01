@@ -8,5 +8,3 @@ version = "0.1.0"
 
 [project.optional-dependencies]
 test = ["pytest"]
-
-a = {b = "c"}
